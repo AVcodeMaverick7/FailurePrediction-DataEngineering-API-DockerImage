@@ -1,0 +1,15 @@
+pip==23.1.2
+numpy==1.24.3
+pyodbc==4.0.39
+scikit-learn==1.2.2
+matplotlib==3.7.1
+pandas==1.5.3
+gunicorn>=19.9.0
+Flask==2.3.3
+Jinja2==3.1.2
+joblib==1.2.0
+itsdangerous==2.1.2
+MarkupSafe==2.1.1
+Werkzeug==2.3.7
+mlxtend==0.22.0
+xgboost==2.0.0
